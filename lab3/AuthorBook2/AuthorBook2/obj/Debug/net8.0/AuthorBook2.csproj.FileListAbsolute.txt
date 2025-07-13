@@ -103,3 +103,8 @@ C:\Users\User\RiderProjects\AuthorBook2\AuthorBook2\bin\Debug\net8.0\zh-Hans\Mic
 C:\Users\User\RiderProjects\AuthorBook2\AuthorBook2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\User\RiderProjects\AuthorBook2\AuthorBook2\bin\Debug\net8.0\Npgsql.dll
 C:\Users\User\RiderProjects\AuthorBook2\AuthorBook2\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\User\RiderProjects\AuthorBook2\AuthorBook2\bin\Debug\net8.0\Microsoft.AspNetCore.OData.dll
+C:\Users\User\RiderProjects\AuthorBook2\AuthorBook2\bin\Debug\net8.0\Microsoft.OData.Core.dll
+C:\Users\User\RiderProjects\AuthorBook2\AuthorBook2\bin\Debug\net8.0\Microsoft.OData.Edm.dll
+C:\Users\User\RiderProjects\AuthorBook2\AuthorBook2\bin\Debug\net8.0\Microsoft.OData.ModelBuilder.dll
+C:\Users\User\RiderProjects\AuthorBook2\AuthorBook2\bin\Debug\net8.0\Microsoft.Spatial.dll
